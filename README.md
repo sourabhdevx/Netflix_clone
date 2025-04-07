@@ -1,8 +1,41 @@
-# React + Vite
+## ⚡ React + Vite Starter Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **minimal yet powerful React + Vite boilerplate**, built and customized by me to kickstart fast and scalable front-end development. It integrates **Hot Module Replacement (HMR)** for a seamless dev experience and comes with basic ESLint rules for cleaner, more maintainable code.
 
-Currently, two official plugins are available:
+### 🛠️ Tech Stack
+- **React** – Frontend UI library
+- **Vite** – Superfast build tool and dev server
+- **ESLint** – Enforced code quality
+- **Babel / SWC** – Supports Fast Refresh with:
+  - `@vitejs/plugin-react` (Babel-based)
+  - `@vitejs/plugin-react-swc` (SWC-based)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🚀 Features
+- Lightning-fast startup with Vite
+- Hot Module Replacement (HMR) for real-time development
+- Clean and scalable folder structure
+- Pre-configured ESLint rules for code quality
+- Easy to extend with Tailwind, React Router, Redux, etc.
+
+### 📦 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+```
+
+### 🧪 Available Scripts
+
+```bash
+npm run dev       # Start development server
+npm run build     # Build for production
+npm run preview   # Preview production build
+npm run lint      # Run ESLint checks
+```
