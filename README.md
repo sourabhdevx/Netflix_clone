@@ -21,7 +21,7 @@ This project is a **minimal yet powerful React + Vite boilerplate**, built and c
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/sourabhdevx/Netflix_clone.git
 cd your-repo-name
 
 # Install dependencies
